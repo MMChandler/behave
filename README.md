@@ -1,6 +1,4 @@
 # Behavior Driven Development via Behave Framework
-This repo is here for me to experiment with automation and keep my skills sharp :).
-
 'Behave' is a Gherkin like framework for writing test automation code. The framework is
 driven by Selenium.
 
