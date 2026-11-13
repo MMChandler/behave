@@ -8,4 +8,3 @@ def login(context, username, password):
     username_field.send_keys(username)
     password_field.send_keys(password)
     login_button.click()
-
